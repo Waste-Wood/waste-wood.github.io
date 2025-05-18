@@ -17,42 +17,82 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm Kai Xiong, a Ph.D. student in Research Center for Social Computing and Interactive Robotics (SCIR), at Harbin Institute of Technology (HIT, China). I am co-advised by Prof. Ting Liu and Prof. Xiao Ding. My research interests lie in event reasoning, eventic graph, and large language models. I have published papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Three/One papers are accepted by ACL 2025 conference/findings, respectively. 
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024 poster.
+- *2024.05*: &nbsp;🎉🎉 One/One papers are accepted by ACL 2024 conference/findings, respectively. -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Arxiv
+- Diagnosing and Remedying Knowledge Deficiencies in LLMs via Label-free Curricular Meaningful Learning. **Kai Xiong**, Xiao Ding, Li Du, Jiahao Ying, Ting Liu, Bing Qin, Yixin Cao.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## 2025
+- Com$^2$: A Causal-Guided Benchmark for Exploring Complex Commonsense Reasoning in Large Language Models. **Kai Xiong**, Xiao Ding, Yixin Cao, Yuxiong Yan, Li Du, Yufei Zhang, Jinglong Gao, Jiaqian Liu, Bing Qin, Ting Liu. ACL 2025.
+- Supervised Fine-Tuning Achieve Rapid Task Adaption Via Alternating Attention Head Activation Patterns. Yang Zhao, Li Du, Xiao Ding, **Kai Xiong**, Ting Liu, Bing Qin. ACL 2025.
+- Beyond Similarity: A Gradient-based Graph Method for Instruction Tuning Data Selection. Yang Zhao, Li Du, Xiao Ding, YangouOuyang, Hepeng Wang, **Kai Xiong**, Jinglong Gao, Zhouhao Sun, Dongliang Xu, Qing Yang, Dongchen Li, Bing Qin, Ting Liu. ACL 2025.
+- Natural Logic at the Core: Dynamic Rewards for Entailment Tree Generation. Jihao Shi, Xiao Ding, **Kai Xiong**, Hengwei Zhao, Bing Qin, Ting Liu. ACL 2025 Findings.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+## 2024
+- Meaningful Learning: Enhancing Abstract Reasoning in Large Language Models via Generic Fact Guidance. **Kai Xiong**, Xiao Ding, Ting Liu, Bing Qin, Dongliang Xu, Qing Yang, Hongtao Liu, Yixin Cao. NeurIPS 2024.
+- Intuitive or Dependent? Investigating LLMs' Behavior Style to Conflicting Prompts. Jiahao Ying, Yixin Cao, **Kai Xiong**, Yidong He, Long Cui, Yongbin Liu. ACL 2024.
+- Deciphering the lmpact of Pretraining Data on Large Language Models through Machine Unlearning. Yang Zhao, Li Du, Xiao Ding, **Kai Xiong**, Zhouhao Sun, Jun Shi, Ting Liu, Bing Qin. ACL 2024 Findings.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## 2023
+- Examining Inter-consistency of Large Language Models Collaboration: An in-depth Analysis via Debate. **Kai Xiong**, Xiao Ding, Yixin Cao, Ting Liu, Bing Qin. EMNLP 2023 Findings.
+- Improving Cross-task Generalization with Step-by-step Instructions. Yang Wu, Yanyan Zhao, Zhongyang Li, Bing Qin, **Kai Xiong**. Science China Information Sciences (SCIS, IF=7.3).
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## 2022
+- ReCo: Reliable Causal Chain Reasoning via Structural Causal Recurrent Neural Networks. **Kai Xiong**, Xiao Ding, Zhongyang Li, Li Du, Ting Liu, Bing Qin, Yi Zheng, Baoxing Huai. EMNLP 2022.
+- e-CARE: A New Dataset for Exploring Explainable Causal Reasoning. Li Du, Xiao Ding, **Kai Xiong**, Ting Liu, Bing Qin. ACL 2022.
+- A Graph Enhanced Bert Model for Event Prediction. Li Du, Xiao Ding, Yue Zhang, **Kai Xiong**, Ting Liu, Bing Qin. ACL 2022 Findings.
+- Enhancing Pretrained Language Models with Structured Commonsense Knowledge for Textual Inference. Li Du, Xiao Ding, **Kai Xiong**, Ting Liu, Bing Qin. Knowledge-Based Systems (KBS, IF=7.2).
+- 面向文本推理的知识增强预训练语言模型. **熊凯**, 杜理, 丁效, 刘挺, 秦兵, 付博. 中文信息学报.
+
+## 2021
+- ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning. Li Du, Xiao Ding, **Kai Xiong**, Ting Liu, Bing Qin. ACL 2021.
+- Heterogeneous Graph Knowledge Enhanced Stock Market Prediction. **Kai Xiong**, Xiao Ding, Li Du, Ting Liu, Bing Qin. AI Open.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* National Scholarship for Doctoral Students
+- *2024* Outstanding Student Award of Harbin Institute of Technology
+- *2024* Top Reviewer of NeurIPS 2024 (8.6%, 1,304 of 15,160 reviewers)
+- *2021* CCKS 2021 Best Chinese Paper Runner-up Award
+- *2021* First Prize in the Future Cup AI Academic Contest
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Wuhan University, China. Bachelor of Science, Geographic Information Science. 
+- *2019.09 - 2021.06*, Harbin Institute of Technology, China. Master of Engineering, Computer Science.
+  - Research Center for Social Computing and Information Retrieval (SCIR)
+  - Advisor: Prof. Ting Liu
+- *2022.07 - 2023.08*, Singapore Management University, Singapore. Research Assistant
+  - Advisor: Prof. Yixin Cao
+- *2021.09 - Now*, Harbin Institute of Technology, China. Ph.D. Candidate
+  - Research Center for Social Computing and Information Retrieval (SCIR)
+  - Advisors: Prof. Ting Liu and Xiao Ding
 
-# 💬 Invited Talks
+# 💼 Internships
+- *2021.10 - 2022.07*, Huawei Cloud, China. AI Algorithm Engineer.
+- *2023.12 - 2024.10*, Duxiaoman Financial Technology, China. LLMs Algorithm Engineer.
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Academic Services
+- Reviewers of Top AI Conferences
+  - ACL/ARR: 2021, 2022, 2023, 2024, 2025
+  - NeurIPS: 2024, 2025
+  - EMNLP/ARR: 2022, 2023
+  - KDD: 2024
+  - WWW: 2025
+  - ICML: 2025
+
+- Reviewers of Other Conferences
+  - CCKS
+  - NLPCC
+  - CCL
+

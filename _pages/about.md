@@ -82,7 +82,7 @@ I'm Kai Xiong, a Ph.D. student in Research Center for Social Computing and Inter
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# Academic Services
+# 🎓 Academic Services
 - Reviewers of Top AI Conferences
   - ACL/ARR: 2021, 2022, 2023, 2024, 2025
   - NeurIPS: 2024, 2025

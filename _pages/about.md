@@ -68,7 +68,7 @@ I'm Kai Xiong, a Ph.D. student in Research Center for Social Computing and Inter
 - *2019.09 - 2021.06*, Harbin Institute of Technology, China. Master of Engineering, Computer Science.
   - Research Center for Social Computing and Information Retrieval (SCIR)
   - Advisor: Prof. Ting Liu
-- *2022.07 - 2023.08*, Singapore Management University, Singapore. Research Assistant
+- *2022.07 - 2023.08*, Singapore Management University, Singapore. Research Assistant, School of Computing and Information Science.
   - Advisor: Prof. Yixin Cao
 - *2021.09 - Now*, Harbin Institute of Technology, China. Ph.D. Candidate
   - Research Center for Social Computing and Information Retrieval (SCIR)

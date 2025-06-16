@@ -31,6 +31,7 @@ I'm Kai Xiong, a Ph.D. student in Research Center for Social Computing and Inter
 - Diagnosing and Remedying Knowledge Deficiencies in LLMs via Label-free Curricular Meaningful Learning. **Kai Xiong**, Xiao Ding, Li Du, Jiahao Ying, Ting Liu, Bing Qin, Yixin Cao.
 
 ## 2025
+- Think Straight or Think Again? Continual Joint Learning of Deduction, Abduction, and Induction. **Kai Xiong**, Xiao Ding, Yixin Cao, Yang Zhao, Bing Qin, Ting Liu. Neural Networks (IF=6.4).
 - Com$^2$: A Causal-Guided Benchmark for Exploring Complex Commonsense Reasoning in Large Language Models. **Kai Xiong**, Xiao Ding, Yixin Cao, Yuxiong Yan, Li Du, Yufei Zhang, Jinglong Gao, Jiaqian Liu, Bing Qin, Ting Liu. ACL 2025.
 - Supervised Fine-Tuning Achieve Rapid Task Adaption Via Alternating Attention Head Activation Patterns. Yang Zhao, Li Du, Xiao Ding, **Kai Xiong**, Ting Liu, Bing Qin. ACL 2025.
 - Beyond Similarity: A Gradient-based Graph Method for Instruction Tuning Data Selection. Yang Zhao, Li Du, Xiao Ding, YangouOuyang, Hepeng Wang, **Kai Xiong**, Jinglong Gao, Zhouhao Sun, Dongliang Xu, Qing Yang, Dongchen Li, Bing Qin, Ting Liu. ACL 2025.
@@ -43,13 +44,13 @@ I'm Kai Xiong, a Ph.D. student in Research Center for Social Computing and Inter
 
 ## 2023
 - Examining Inter-consistency of Large Language Models Collaboration: An in-depth Analysis via Debate. **Kai Xiong**, Xiao Ding, Yixin Cao, Ting Liu, Bing Qin. EMNLP 2023 Findings.
-- Improving Cross-task Generalization with Step-by-step Instructions. Yang Wu, Yanyan Zhao, Zhongyang Li, Bing Qin, **Kai Xiong**. Science China Information Sciences (SCIS, IF=7.3).
+- Improving Cross-task Generalization with Step-by-step Instructions. Yang Wu, Yanyan Zhao, Zhongyang Li, Bing Qin, **Kai Xiong**. Science China Information Sciences (Science China Information Sciences, IF=7.7).
 
 ## 2022
 - ReCo: Reliable Causal Chain Reasoning via Structural Causal Recurrent Neural Networks. **Kai Xiong**, Xiao Ding, Zhongyang Li, Li Du, Ting Liu, Bing Qin, Yi Zheng, Baoxing Huai. EMNLP 2022.
 - e-CARE: A New Dataset for Exploring Explainable Causal Reasoning. Li Du, Xiao Ding, **Kai Xiong**, Ting Liu, Bing Qin. ACL 2022.
 - A Graph Enhanced Bert Model for Event Prediction. Li Du, Xiao Ding, Yue Zhang, **Kai Xiong**, Ting Liu, Bing Qin. ACL 2022 Findings.
-- Enhancing Pretrained Language Models with Structured Commonsense Knowledge for Textual Inference. Li Du, Xiao Ding, **Kai Xiong**, Ting Liu, Bing Qin. Knowledge-Based Systems (KBS, IF=7.2).
+- Enhancing Pretrained Language Models with Structured Commonsense Knowledge for Textual Inference. Li Du, Xiao Ding, **Kai Xiong**, Ting Liu, Bing Qin. Knowledge-Based Systems (Knowledge-Based Systems, IF=7.6).
 - 面向文本推理的知识增强预训练语言模型. **熊凯**, 杜理, 丁效, 刘挺, 秦兵, 付博. 中文信息学报.
 
 ## 2021

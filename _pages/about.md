@@ -27,8 +27,8 @@ I'm Kai Xiong, a Ph.D. student in Research Center for Social Computing and Inter
 
 # 📝 Publications 
 
-## Arxiv
-- Diagnosing and Remedying Knowledge Deficiencies in LLMs via Label-free Curricular Meaningful Learning. **Kai Xiong**, Xiao Ding, Li Du, Jiahao Ying, Ting Liu, Bing Qin, Yixin Cao.
+## 2026
+- *Diagnosing and Remedying Knowledge Deficiencies in LLMs via Label-free Curricular Meaningful Learning.* **Kai Xiong**, Xiao Ding, Li Du, Jiahao Ying, Ting Liu, Bing Qin, Yixin Cao. ICLR 2026.
 
 ## 2025
 - Think Straight or Think Again? Continual Joint Learning of Deduction, Abduction, and Induction. **Kai Xiong**, Xiao Ding, Yixin Cao, Yang Zhao, Bing Qin, Ting Liu. Neural Networks (IF=6.3).

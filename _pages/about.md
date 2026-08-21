@@ -28,6 +28,8 @@ I'm Kai Xiong, a Ph.D. student in Research Center for Social Computing and Inter
 # 📝 Publications 
 
 ## 2026
+- <span style="color:blue">*Debate-aware Learning Makes LLMs Genuine Debaters.*</span> Yufei Zhang\*, **Kai Xiong**\*, Yuxiong Yan, Bibo Cai, Xiao Ding, Bing Qin, Ting Liu. <span style="color:red">**EMNLP 2026**</span>.
+- *IALR: Instance-Adaptive Legal Rubric Supervision for Legal Judgment Prediction.* Jianbai Zhao, Bibo Cai, Xiao Ding, Xinran Dai, Yu Bao, Bo Xin, **Kai Xiong**, Bing Qin, Ting Liu
 - *Diagnosing and Remedying Knowledge Deficiencies in LLMs via Label-free Curricular Meaningful Learning.* **Kai Xiong**, Xiao Ding, Li Du, Jiahao Ying, Ting Liu, Bing Qin, Yixin Cao. ICLR 2026.
 - *Consolidation or Adaptation? PRISM: Disentangling SFT and RL Data via Gradient Concentration.* Yang Zhao, Yangou Ouyang, Xiao Ding, Hepeng Wang, Bibo Cai, **Kai Xiong**, Jinglong Gao, Zhouhao Sun, Li Du, Bing Qin, Ting Liu. ACL 2026.
 - *Maestro: Meta-learning adaptive estimation of scalarization trade-offs for reward optimization.* Yang Zhao, Hepeng Wang, Xiao Ding, Yangou Ouyang, Bibo Cai, **Kai Xiong**, Jinglong Gao, Zhouhao Sun, Li Du, Bing Qin, Ting Liu. ACL 2026.
